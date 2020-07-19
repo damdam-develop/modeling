@@ -1,0 +1,7 @@
+
+*.ipynb
+*.ipynb
+*.ipynb
+.ipynb_checkpoints/로지스틱 회귀-checkpoint.ipynb
+*.whl
+*.h5
